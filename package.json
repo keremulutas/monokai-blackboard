@@ -1,7 +1,7 @@
 {
   "name": "monokai-blackboard-tweaked",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A monokai-blackboard hybrid theme for Atom, with first indent guide visible. Forked from dexteryy/monokai-blackboard",
   "repository": {
     "type": "git",
